@@ -3,7 +3,7 @@ rxvt-copysel
 ************
 
 A simple URxvt plugin which mimics iterm's copy-on-selection functionality.
-Stolen in it's entirety from ```skottish``'s post on the Arch Linux Forum
+Stolen in it's entirety from `skottish's post on the Arch Linux Forum
 <https://bbs.archlinux.org/viewtopic.php?pid=460774#p460774>`_.
 
 Installation
